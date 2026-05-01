@@ -3,7 +3,7 @@
 package operations
 
 import (
-	"github.com/my-company/petstore/internal/sdk/models/components"
+	"github.com/lucascustodio/newteste/internal/sdk/models/components"
 )
 
 type LogoutUserResponse struct {

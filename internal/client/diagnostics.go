@@ -12,7 +12,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/my-company/petstore/internal/flagutil"
+	"github.com/lucascustodio/newteste/internal/flagutil"
 )
 
 // maxBodyPreview is the maximum number of bytes to show in body previews.

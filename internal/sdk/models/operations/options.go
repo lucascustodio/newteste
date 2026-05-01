@@ -4,8 +4,8 @@ package operations
 
 import (
 	"errors"
-	"github.com/my-company/petstore/internal/sdk/retry"
-	"github.com/my-company/petstore/internal/sdk/sdkinternal/utils"
+	"github.com/lucascustodio/newteste/internal/sdk/retry"
+	"github.com/lucascustodio/newteste/internal/sdk/sdkinternal/utils"
 	"time"
 )
 

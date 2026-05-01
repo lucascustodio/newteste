@@ -63,12 +63,12 @@ iwr -useb https://raw.githubusercontent.com/my-company/petstore/main/scripts/ins
 Alternatively, install directly via Go:
 
 ```bash
-go install github.com/my-company/petstore/cmd/cli@latest
+go install github.com/lucascustodio/newteste/cmd/cli@latest
 ```
 
 ### Manual Download
 
-Download pre-built binaries for your platform from the [releases page](https://github.com/my-company/petstore/releases).
+Download pre-built binaries for your platform from the [releases page](https://github.com/lucascustodio/newteste/releases).
 <!-- End CLI Installation [installation] -->
 
 <!-- Start Shell Completion [completion] -->

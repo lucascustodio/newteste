@@ -3,7 +3,7 @@
 package store
 
 import (
-	"github.com/my-company/petstore/internal/usage"
+	"github.com/lucascustodio/newteste/internal/usage"
 	"github.com/spf13/cobra"
 )
 

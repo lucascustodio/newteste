@@ -4,7 +4,7 @@ package config
 
 import (
 	"context"
-	"github.com/my-company/petstore/internal/sdk/retry"
+	"github.com/lucascustodio/newteste/internal/sdk/retry"
 	"net/http"
 	"time"
 )

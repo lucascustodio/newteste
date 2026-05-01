@@ -69,5 +69,5 @@ cli:
     errorColor: '#F87171'
     subtleColor: '#475569'
     successColor: '#4ADE80'
-  packageName: github.com/my-company/petstore
+  packageName: github.com/lucascustodio/newteste
   removeStutter: true

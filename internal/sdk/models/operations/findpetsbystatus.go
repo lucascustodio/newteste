@@ -5,8 +5,8 @@ package operations
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/my-company/petstore/internal/sdk/models/components"
-	"github.com/my-company/petstore/internal/sdk/sdkinternal/utils"
+	"github.com/lucascustodio/newteste/internal/sdk/models/components"
+	"github.com/lucascustodio/newteste/internal/sdk/sdkinternal/utils"
 )
 
 // Status values that need to be considered for filter

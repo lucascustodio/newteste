@@ -3,7 +3,7 @@
 package components
 
 import (
-	"github.com/my-company/petstore/internal/sdk/sdkinternal/utils"
+	"github.com/lucascustodio/newteste/internal/sdk/sdkinternal/utils"
 )
 
 // PetStatus - pet status in the store

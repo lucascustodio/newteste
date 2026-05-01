@@ -15,9 +15,9 @@ import (
 	"github.com/spf13/cobra"
 	"golang.org/x/term"
 
-	"github.com/my-company/petstore/internal/config"
-	"github.com/my-company/petstore/internal/flagutil"
-	"github.com/my-company/petstore/internal/output"
+	"github.com/lucascustodio/newteste/internal/config"
+	"github.com/lucascustodio/newteste/internal/flagutil"
+	"github.com/lucascustodio/newteste/internal/output"
 )
 
 // IsInteractive returns true when the CLI should use interactive features.

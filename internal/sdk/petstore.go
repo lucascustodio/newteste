@@ -8,11 +8,11 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/my-company/petstore/internal/sdk/models/components"
-	"github.com/my-company/petstore/internal/sdk/retry"
-	"github.com/my-company/petstore/internal/sdk/sdkinternal/config"
-	"github.com/my-company/petstore/internal/sdk/sdkinternal/hooks"
-	"github.com/my-company/petstore/internal/sdk/sdkinternal/utils"
+	"github.com/lucascustodio/newteste/internal/sdk/models/components"
+	"github.com/lucascustodio/newteste/internal/sdk/retry"
+	"github.com/lucascustodio/newteste/internal/sdk/sdkinternal/config"
+	"github.com/lucascustodio/newteste/internal/sdk/sdkinternal/hooks"
+	"github.com/lucascustodio/newteste/internal/sdk/sdkinternal/utils"
 	"net/http"
 	"time"
 )
@@ -189,7 +189,7 @@ func New(opts ...SDKOption) *Petstore {
 	sdk := &Petstore{
 		SDKVersion: "0.0.1",
 		sdkConfiguration: config.SDKConfiguration{
-			UserAgent:  "speakeasy-sdk/go 0.0.1 2.881.16 1.0.0 github.com/my-company/petstore/internal/sdk",
+			UserAgent:  "speakeasy-sdk/go 0.0.1 2.881.16 1.0.0 github.com/lucascustodio/newteste/internal/sdk",
 			ServerList: ServerList,
 			ServerVariables: []map[string]string{
 				{

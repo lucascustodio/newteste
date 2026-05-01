@@ -4,8 +4,8 @@ package cli
 
 import (
 	"fmt"
-	"github.com/my-company/petstore/internal/config"
-	"github.com/my-company/petstore/internal/usage"
+	"github.com/lucascustodio/newteste/internal/config"
+	"github.com/lucascustodio/newteste/internal/usage"
 	"github.com/spf13/cobra"
 )
 

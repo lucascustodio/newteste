@@ -15,7 +15,7 @@ import (
 	"reflect"
 	"regexp"
 
-	"github.com/my-company/petstore/internal/sdk/optionalnullable"
+	"github.com/lucascustodio/newteste/internal/sdk/optionalnullable"
 )
 
 const (

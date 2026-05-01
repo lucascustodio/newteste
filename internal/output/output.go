@@ -18,10 +18,10 @@ import (
 	"github.com/spf13/cobra"
 	"gopkg.in/yaml.v3"
 
-	"github.com/my-company/petstore/internal/config"
-	"github.com/my-company/petstore/internal/flagutil"
-	"github.com/my-company/petstore/internal/sdk/models/operations"
-	"github.com/my-company/petstore/internal/sdk/sdkinternal/utils"
+	"github.com/lucascustodio/newteste/internal/config"
+	"github.com/lucascustodio/newteste/internal/flagutil"
+	"github.com/lucascustodio/newteste/internal/sdk/models/operations"
+	"github.com/lucascustodio/newteste/internal/sdk/sdkinternal/utils"
 )
 
 // cliName is the CLI binary name, injected at generation time.

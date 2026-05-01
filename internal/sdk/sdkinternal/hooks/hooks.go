@@ -5,7 +5,7 @@ package hooks
 import (
 	"context"
 	"errors"
-	"github.com/my-company/petstore/internal/sdk/sdkinternal/config"
+	"github.com/lucascustodio/newteste/internal/sdk/sdkinternal/config"
 	"net/http"
 )
 

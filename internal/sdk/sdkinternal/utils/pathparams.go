@@ -11,8 +11,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/my-company/petstore/internal/sdk/optionalnullable"
-	"github.com/my-company/petstore/internal/sdk/types"
+	"github.com/lucascustodio/newteste/internal/sdk/optionalnullable"
+	"github.com/lucascustodio/newteste/internal/sdk/types"
 )
 
 func GenerateURL(_ context.Context, serverURL, path string, pathParams interface{}, globals interface{}) (string, error) {

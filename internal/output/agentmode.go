@@ -11,7 +11,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/my-company/petstore/internal/flagutil"
+	"github.com/lucascustodio/newteste/internal/flagutil"
 )
 
 var (

@@ -3,11 +3,11 @@
 package store
 
 import (
-	"github.com/my-company/petstore/internal/client"
-	"github.com/my-company/petstore/internal/output"
-	"github.com/my-company/petstore/internal/sdk"
-	"github.com/my-company/petstore/internal/sdk/models/operations"
-	"github.com/my-company/petstore/internal/usage"
+	"github.com/lucascustodio/newteste/internal/client"
+	"github.com/lucascustodio/newteste/internal/output"
+	"github.com/lucascustodio/newteste/internal/sdk"
+	"github.com/lucascustodio/newteste/internal/sdk/models/operations"
+	"github.com/lucascustodio/newteste/internal/usage"
 	"github.com/spf13/cobra"
 )
 

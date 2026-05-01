@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/my-company/petstore/internal/sdk/optionalnullable"
+	"github.com/lucascustodio/newteste/internal/sdk/optionalnullable"
 )
 
 func PopulateHeaders(_ context.Context, req *http.Request, headers interface{}, globals interface{}) {

@@ -6,7 +6,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"github.com/my-company/petstore/internal/sdk/retry"
+	"github.com/lucascustodio/newteste/internal/sdk/retry"
 	"io"
 	"math"
 	"math/rand"

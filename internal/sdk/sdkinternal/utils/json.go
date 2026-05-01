@@ -14,7 +14,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/my-company/petstore/internal/sdk/types"
+	"github.com/lucascustodio/newteste/internal/sdk/types"
 )
 
 func MarshalJSON(v interface{}, tag reflect.StructTag, topLevel bool) ([]byte, error) {

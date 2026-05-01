@@ -4,7 +4,7 @@ package sdkerrors
 
 import (
 	"encoding/json"
-	"github.com/my-company/petstore/internal/sdk/models/components"
+	"github.com/lucascustodio/newteste/internal/sdk/models/components"
 )
 
 // APIErrorNotFound - Not Found error

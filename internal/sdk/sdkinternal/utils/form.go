@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/my-company/petstore/internal/sdk/optionalnullable"
-	"github.com/my-company/petstore/internal/sdk/types"
+	"github.com/lucascustodio/newteste/internal/sdk/optionalnullable"
+	"github.com/lucascustodio/newteste/internal/sdk/types"
 )
 
 func populateForm(paramName string, explode bool, objType reflect.Type, objValue reflect.Value, delimiter string, defaultValue *string, allowEmptyValue map[string]struct{}, getFieldName func(reflect.StructField) string) url.Values {

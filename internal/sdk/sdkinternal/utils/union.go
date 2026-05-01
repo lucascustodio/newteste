@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/my-company/petstore/internal/sdk/types"
+	"github.com/lucascustodio/newteste/internal/sdk/types"
 )
 
 // UnionCandidate represents a candidate type during union deserialization

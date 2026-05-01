@@ -12,8 +12,8 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/my-company/petstore/internal/sdk/optionalnullable"
-	"github.com/my-company/petstore/internal/sdk/types"
+	"github.com/lucascustodio/newteste/internal/sdk/optionalnullable"
+	"github.com/lucascustodio/newteste/internal/sdk/types"
 )
 
 func PopulateQueryParams(_ context.Context, req *http.Request, queryParams interface{}, globals interface{}, allowEmptyValue map[string]struct{}) error {

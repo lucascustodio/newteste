@@ -1,0 +1,48 @@
+## cli pet
+
+Everything about your Pets
+
+### Synopsis
+
+Everything about your Pets
+
+```
+cli pet [flags]
+```
+
+### Options
+
+```
+  -h, --help   help for pet
+```
+
+### Options inherited from parent commands
+
+```
+      --agent-mode             Enable structured errors and default TOON output for AI coding agents. Automatically enabled when a known agent environment is detected (CLAUDE_CODE, CURSOR_AGENT, etc.). Use --agent-mode=false to disable.
+      --api-key string         API Key
+      --color string           Control colored output: auto (color when output is a TTY), always, or never. Respects NO_COLOR and FORCE_COLOR env vars. (default "auto")
+  -d, --debug                  Log request and response diagnostics to stderr
+      --dry-run                Preview the request that would be sent without executing it (output to stderr)
+      --environment string     Server template variable: environment
+  -H, --header stringArray     Set a custom HTTP request header (format: "Key: Value"). Can be specified multiple times.
+      --include-headers        Include HTTP response headers in the output
+  -q, --jq string              Filter and transform output using a jq expression (e.g., '.name', '.items[] | .id')
+      --no-interactive         Disable all interactive features (auto-prompting, explorer auto-launch, TUI forms)
+  -o, --output-format string   Specify the output format. Options: pretty, json, yaml, table, toon. (default "pretty")
+      --server string          Select a server by index (for indexed servers) or name (for named servers)
+      --server-url string      Override the default server URL
+      --timeout string         HTTP request timeout (e.g., 30s, 5m, 100ms)
+      --usage                  Print the CLI Usage schema in KDL format
+```
+
+### SEE ALSO
+
+* [cli](cli.md)	 - Petstore - OpenAPI 3
+* [cli pet add](cli_pet_add.md)	 - Add a new pet to the store
+* [cli pet delete](cli_pet_delete.md)	 - Deletes a pet
+* [cli pet find-pets-by-status](cli_pet_find-pets-by-status.md)	 - Finds Pets by status
+* [cli pet find-pets-by-tags](cli_pet_find-pets-by-tags.md)	 - Finds Pets by tags
+* [cli pet get-pet-by-id](cli_pet_get-pet-by-id.md)	 - Find pet by ID
+* [cli pet update](cli_pet_update.md)	 - Update an existing pet
+* [cli pet upload-file](cli_pet_upload-file.md)	 - uploads an image

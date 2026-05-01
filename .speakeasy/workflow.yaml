@@ -1,0 +1,17 @@
+workflowVersion: 1.0.0
+speakeasyVersion: latest
+sources:
+    petstore-oas:
+        inputs:
+            - location: openapi.yaml
+        output: .speakeasy/out.openapi.yaml
+        registry:
+            location: registry.speakeasyapi.dev/stefanini/my-space/petstore-oas
+targets:
+    petstore:
+        target: cli
+        source: petstore-oas
+        publish:
+            cli:
+                gpgPrivateKey: $cli_gpg_private_key
+                gpgPassPhrase: $cli_gpg_passphrase

@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/my-company/petstore/internal/cli"
+	"github.com/lucascustodio/newteste/internal/cli"
 	"github.com/spf13/cobra"
 	"github.com/spf13/cobra/doc"
 )

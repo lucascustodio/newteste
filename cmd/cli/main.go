@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/my-company/petstore/internal/cli"
+	"github.com/lucascustodio/newteste/internal/cli"
 )
 
 // version and buildTime can be set at build time using Go linker flags:

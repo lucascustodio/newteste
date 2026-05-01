@@ -2,7 +2,7 @@
 
 Command-line interface for the *Petstore - OpenAPI 3.1* API.
 
-[![Built by Speakeasy](https://img.shields.io/badge/Built_by-SPEAKEASY-374151?style=for-the-badge&labelColor=f3f4f6)](https://www.speakeasy.com/?utm_source=github-com/my-company/petstore&utm_campaign=cli)
+[![Built by Speakeasy](https://img.shields.io/badge/Built_by-SPEAKEASY-374151?style=for-the-badge&labelColor=f3f4f6)](https://www.speakeasy.com/?utm_source=github-com/lucascustodio/newteste&utm_campaign=cli)
 [![License: MIT](https://img.shields.io/badge/LICENSE_//_MIT-3b5bdb?style=for-the-badge&labelColor=eff6ff)](https://opensource.org/licenses/MIT)
 
 
@@ -49,13 +49,13 @@ For more information about the API: [Find out more about Swagger](http://swagger
 ### Quick Install (Linux/macOS)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/my-company/petstore/main/scripts/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/lucascustodio/newteste/main/scripts/install.sh | bash
 ```
 
 ### Quick Install (Windows PowerShell)
 
 ```powershell
-iwr -useb https://raw.githubusercontent.com/my-company/petstore/main/scripts/install.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/lucascustodio/newteste/main/scripts/install.ps1 | iex
 ```
 
 ### Go Install
@@ -444,4 +444,4 @@ looking for the latest version.
 While we value open-source contributions to this CLI, this library is generated programmatically. Any manual changes added to internal files will be overwritten on the next generation. 
 We look forward to hearing your feedback. Feel free to open a PR or an issue with a proof of concept and we'll do our best to include it in a future release. 
 
-### CLI Created by [Speakeasy](https://www.speakeasy.com/?utm_source=github-com/my-company/petstore&utm_campaign=cli)
+### CLI Created by [Speakeasy](https://www.speakeasy.com/?utm_source=github-com/lucascustodio/newteste&utm_campaign=cli)

@@ -18,7 +18,7 @@ param()
 $ErrorActionPreference = 'Stop'
 
 # Configuration
-$Repo = "my-company/petstore"
+$Repo = "lucascustodio/newteste"
 $BinaryName = "cli.exe"
 $DefaultInstallDir = Join-Path $env:LOCALAPPDATA "Programs\cli"
 $InstallDir = if ($env:CLI_INSTALL_DIR) { $env:CLI_INSTALL_DIR } else { $DefaultInstallDir }

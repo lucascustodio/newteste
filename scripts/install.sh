@@ -17,7 +17,7 @@
 set -e
 
 # Configuration
-REPO="my-company/petstore"
+REPO="lucascustodio/newteste"
 DEFAULT_INSTALL_DIR="/usr/local/bin"
 USER_INSTALL_DIR="$HOME/.local/bin"
 VERSION="${CLI_VERSION:-latest}"

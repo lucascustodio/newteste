@@ -1,4 +1,4 @@
-module github.com/my-company/petstore
+module github.com/lucascustodio/newteste
 
 go 1.25
 
